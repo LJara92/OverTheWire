@@ -96,7 +96,8 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ¡Listo! Ya tienes la contraseña para el usuario bandit3.
 
-Mini tabla de comandos
+
+## Mini tabla de comandos
 
 | Comando | Descripción |
 |----------|----------|
