@@ -14,12 +14,12 @@
 
 Bienvenido a esta colección completa de soluciones detalladas para el wargame Bandit de OverTheWire. Cada nivel está documentado en un artículo independiente. La estructura de cada guía es la siguiente:
 
-* Información de conexión
+* Introducciòn
 
-* Enunciado de la tarea
+* Objetivo
 
-* Conceptos teóricos relevantes
-
+* Teoria
+  
 * Solución paso a paso
 
 El objetivo de este material no es solamente darte las respuestas, sino también ofrecerte explicaciones breves de los conceptos clave involucrados. Aun así, hay mucho más por aprender, y te animo a investigar más a fondo por tu cuenta para potenciar tu conocimiento.
