@@ -1,17 +1,17 @@
 # Nivel 1 - Bandit - OverTheWire
 
-## Introducción
+## 📖Introducción
 
 OverTheWire es una plataforma online donde puedes aprender y practicar conceptos de seguridad informática a través de juegos de guerra (wargames).
 El primero que se recomienda jugar es Bandit, ya que introduce los fundamentos básicos para manejarte en un entorno Linux y resolver desafíos de niveles superiores.
 
 Esta guía forma parte de mi repositorio de soluciones, con explicaciones claras para quien quiera aprender o necesite una referencia rápida.
 
-## Objetivo
+## 🎯Objetivo
 
 Acceder por SSH al servidor de Bandit usando las credenciales proporcionadas y obtener la contraseña del siguiente nivel, almacenada en un archivo llamado readme en el directorio home.
 
-## Teoría
+## 📚Teoría
 
 Cuando inicias sesión en un servidor remoto mediante SSH como un usuario específico, comienzas en el directorio home de ese usuario.
 
@@ -31,7 +31,7 @@ Algunos comandos básicos que vamos a utilizar:
 
 SSH normalmente utiliza el puerto 22, pero en este caso específico debemos conectarnos a un puerto diferente: el 2220.
 
-## Solución
+## ✅Solución
 
 Conectarnos al servidor mediante SSH:
 
