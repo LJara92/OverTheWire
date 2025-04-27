@@ -98,11 +98,12 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 Mini tabla de comandos
 
-**Comando**	**Descripción**
-*ls*	Lista los archivos y carpetas del directorio actual
-*pwd*	Muestra el directorio de trabajo actual
-*cat "<nombre con espacios>"*	Muestra el contenido de un archivo con espacios en el nombre
-*cat nombre\ con\ espacios*	Alternativa usando caracter de escape para espacios
-*ssh*	Permite iniciar sesión remota en otra máquina
+| Comando | Descripción |
+|----------|----------|
+| ```ls```    | Lista los archivos y carpetas del directorio actual |
+| ```pwd``` | Muestra el directorio de trabajo actual   |
+| ```cat "<nombre con espacios>"``` | Muestra el contenido de un archivo con espacios en el nombre   |
+| ```cat nombre\ con\ espacios``` | Alternativa usando caracter de escape para espacios   |
+| ```ssh``` | Permite iniciar sesión remota en otra máquina  |
 
 ![Resuelto](Imagen1.png)
