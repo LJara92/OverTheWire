@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for i in {1..33}; do
+  mkdir "Level $i"
+  cd "Level $i"
+  touch README.md
+  cd ..
+done
+
+echo "Carpetas creadas con éxito."
