@@ -2,7 +2,7 @@
 
 ## 📚 Índice
 
-* [Introducción](#introducción)
+* [Introduction](#📖 Introducción)
 
 
 * [Niveles](#niveles)
