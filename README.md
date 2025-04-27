@@ -34,7 +34,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - [Nivel 1](/Level%201/README.md) - Leer un archivo.
 
-- Nivel 2 - Archivos con nombres inusuales.
+- [Nivel 2](/Level%202/README.md) - Archivos con nombres inusuales.
 
 - Nivel 3 - Espacios en el nombre de archivo.
 
