@@ -1,4 +1,4 @@
-![Banner]{/Banner.png}
+![Banner](/Banner.png)
 
 # 🛡️ OverTheWire: Bandit - Walkthrough en Español
 
