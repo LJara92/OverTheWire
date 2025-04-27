@@ -36,7 +36,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - [Nivel 2](/Level%202/README.md) - Archivos con nombres inusuales.
 
-- Nivel 3 - Espacios en el nombre de archivo.
+- [Nivel 3](/Level%203/README.md) - Espacios en el nombre de archivo.
 
 - Nivel 4 - Archivos ocultos.
 
