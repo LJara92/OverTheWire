@@ -1,15 +1,15 @@
-# Nivel 1 -> 2 - Bandit - OverTheWire
+#Nivel 1 - Bandit - OverTheWire
 
-## 📖Introducción
+##Introducción
 
 Continuamos avanzando en el wargame Bandit de OverTheWire, donde se ponen a prueba habilidades básicas de navegación y manipulación de archivos en Linux.
 Este nivel es una excelente oportunidad para seguir familiarizándonos con los comandos esenciales del sistema operativo.
 
-## 🎯Objetivo
+##Objetivo
 
 Encontrar la contraseña para el usuario bandit2, la cual está almacenada en un archivo llamado - ubicado en el directorio home.
 
-## 📚Teoría
+##Teoría
 
 En este desafío trabajaremos con un archivo que tiene un nombre algo particular: un solo guion -.
 Esto puede ser confuso, porque en Linux el - suele representar la entrada o salida estándar (stdin/stdout) o utilizarse como prefijo para opciones de comando.
@@ -26,7 +26,7 @@ Algunos comandos útiles:
 
 **cat ./-**: imprime el contenido del archivo cuyo nombre es -. El ./ indica que el archivo está en el directorio actual.
 
-## ✅Solución
+##Solución paso a paso
 
 Iniciar sesión con SSH utilizando las credenciales del nivel 1:
 
