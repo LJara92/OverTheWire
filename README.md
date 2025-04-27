@@ -1,6 +1,6 @@
 ![Banner](/Banner.png)
 
-# 🛡️ OverTheWire: Bandit - Walkthrough en Español
+# 🛡️ OverTheWire: Bandit - Soluciones
 
 ## 📚 Índice
 
