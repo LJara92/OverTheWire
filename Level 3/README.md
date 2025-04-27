@@ -22,9 +22,9 @@ El intérprete de comandos separa los argumentos por espacios, por lo que un nom
 
 Formas de manejar archivos con espacios en sus nombres:
 
-- Colocar el nombre entre comillas (*" "*) para que sea interpretado como un solo argumento.
+- Colocar el nombre entre comillas (```" "```) para que sea interpretado como un solo argumento.
 
-- Usar el caracter de escape *\* antes de cada espacio (*\ *).
+- Usar el caracter de escape *\* antes de cada espacio (```\ ```).
 
 Ejemplos:
 
