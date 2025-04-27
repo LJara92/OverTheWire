@@ -58,3 +58,5 @@ Contraseña para bandit0: **```bandit0```**
 Si todo se hizo correctamente, verás un mensaje de bienvenida que te indicará que has iniciado sesión en el servidor y te proporcionará más información sobre el juego.
 
 Con esto, habrás completado con éxito el **Nivel 0**
+
+![Level-completo](Imagen1.png)
