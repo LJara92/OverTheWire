@@ -42,7 +42,7 @@ Ambos métodos son válidos para referirse correctamente al archivo.
 
 ## ✅Solución
 
-Conectarse al servidor mediante SSH:
+1. Conectarse al servidor mediante SSH:
 
 ```
 ssh bandit2@bandit.labs.overthewire.org -p 2220
@@ -50,7 +50,7 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 Usuario: *bandit2*
 Contraseña: (contraseña obtenida en el nivel anterior)
 
-Verificar el directorio actual:
+2. Verificar el directorio actual:
 
 ```
 pwd
@@ -62,7 +62,7 @@ Deberías estar en:
 /home/bandit2
 ```
 
-Listar los archivos presentes:
+3. Listar los archivos presentes:
 
 ```
 ls
@@ -74,7 +74,7 @@ Salida esperada:
 spaces in this filename
 ```
 
-Leer el contenido del archivo:
+4. Leer el contenido del archivo:
 
 Usando comillas:
 
