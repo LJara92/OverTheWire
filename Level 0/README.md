@@ -1,4 +1,4 @@
-# Introducción
+# 📖Introducción
 
 **OverTheWire** es una plataforma en línea gratuita diseñada para que aprendas y
 pongas a prueba tus habilidades en seguridad cibernética a través de juegos
@@ -14,7 +14,7 @@ Mi objetivo será explicar los conceptos clave de forma breve pero clara, aunque
 
 Ahora que sabes el propósito de este artículo, ¡comencemos con la guía para el **Nivel 0**!
 
-# Objetivo
+# 🎯Objetivo
 
  La misión de este nivel es conectarte a un servidor a través de **SSH**
 
@@ -26,7 +26,7 @@ Usuario: **bandit0**
 
 Contraseña: **bandit0**
 
-# Teoría
+# 📚Teoría
  
  En este nivel, el reto consiste en usar **SSH** (Secure Shell Protocol), un protocolo de comunicación que permite la conexión remota segura entre computadoras. Es fundamental en la administración de servidores y en la interacción con máquinas a través de la terminal.
 
@@ -36,7 +36,7 @@ El puerto estándar de **SSH** es el **22**, aunque en este caso, deberás utili
 
 Si no estás familiarizado con estos términos, te sugiero que investigues más sobre redes y protocolos de comunicación, ya que son conceptos fundamentales que te serán útiles a lo largo de todo el juego y más allá.
 
-# Solución
+# ✅Solución
 
 Para conectarte al servidor, abre una terminal en **Linux **(o usa tu herramienta SSH en Windows) y usa la siguiente estructura de comando:
 
