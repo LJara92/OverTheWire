@@ -30,7 +30,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 #### Los que estan sin link, aun no estan resueltos
 
-- [Nivel 0](/"Level%200") - Inicio de sesión SSH.
+- [Nivel 0](/Level%200) - Inicio de sesión SSH.
 
 - Nivel 1 - Leer un archivo.
 
