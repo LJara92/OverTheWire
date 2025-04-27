@@ -2,13 +2,13 @@
 
 ## 📚 Índice
 
-* [📖 Introducción](#Introducción)
+* [Introducción](#Introducción)
 
 
-* [Niveles](#niveles)
+* [Niveles](#Niveles)
 
 
-* [Conclusión](conclusión)
+* [Conclusión](Conclusión)
 
 ## 📖 Introducción
 
