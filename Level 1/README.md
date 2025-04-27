@@ -1,4 +1,4 @@
-# Nivel 1 - Bandit - OverTheWire
+# Nivel 0 -> 1 - Bandit - OverTheWire
 
 ## 📖Introducción
 
