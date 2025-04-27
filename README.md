@@ -60,5 +60,12 @@ Si esta guía te resultó útil, no dudes en dejar un comentario o compartir tu 
 
 ⭐ ¡Si te sirvió este repositorio, no olvides dejar una estrella en GitHub para apoyar el proyecto!
 
+### 🌐 Contacto & redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-jara)
+[![UpWork](https://img.shields.io/badge/-UpWork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017f300d86831fd3c2)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://es.fiverr.com/s/7Yl6ZYy)
+[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jara.lautaro@gmail.com)
+
 
 
