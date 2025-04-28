@@ -6,23 +6,23 @@ En este nivel, nos enfrentamos a un archivo escondido dentro de un directorio.
 Aprenderemos a explorar directorios y a visualizar archivos que, aunque no sean evidentes, contienen información importante.
 
 ## 🎯Objetivo
-Encontrar la contraseña para el usuario bandit4, ubicada en un archivo oculto dentro de una carpeta llamada inhere.
+Encontrar la contraseña para el usuario **bandit4**, ubicada en un archivo oculto dentro de una carpeta llamada ```inhere```.
 
 ## 📚Teoría
-En Linux, los archivos o carpetas que comienzan con un punto (.) son considerados ocultos.
-Estos archivos no aparecen cuando usamos el comando ls de manera normal. Para verlos, es necesario utilizar el flag -a que significa "mostrar todos los archivos".
+En Linux, los archivos o carpetas que comienzan con un **punto (**```.```**)** son considerados **ocultos**
+Estos archivos no aparecen cuando usamos el comando ls de manera normal. Para verlos, es necesario utilizar el flag ```-a``` que significa **"mostrar todos los archivos"**.
 
  Comandos relevantes:
 
-* ls: Lista el contenido de un directorio.
+* ```ls```: Lista el contenido de un directorio.
 
-* ls -a: Lista todos los archivos, incluyendo los ocultos.
+* ```ls -a```: Lista todos los archivos, incluyendo los ocultos.
 
-* ls -la: Lista todos los archivos en formato largo (permisos, dueño, tamaño, fecha).
+* ```ls -la```: Lista todos los archivos en formato largo (permisos, dueño, tamaño, fecha).
 
-* cat: Permite leer y mostrar el contenido de un archivo.
+* ```cat```: Permite leer y mostrar el contenido de un archivo.
 
-* La ruta hacia el archivo oculto puede requerir especificar el nombre completo incluyendo el ... inicial (porque el archivo tiene un nombre poco común).
+* La ruta hacia el archivo oculto puede requerir especificar el nombre completo incluyendo el ```...``` inicial (porque el archivo tiene un nombre poco común).
 
 ## ✅Solución
 
