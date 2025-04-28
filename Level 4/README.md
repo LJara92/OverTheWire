@@ -1,14 +1,14 @@
 # Nivel 3 -> 4 - Bandit - OverTheWire
 
-## Introducción
+## 📖Introducción
 
 En este nivel, nos enfrentamos a un archivo escondido dentro de un directorio.
 Aprenderemos a explorar directorios y a visualizar archivos que, aunque no sean evidentes, contienen información importante.
 
-## Objetivo
+## 🎯Objetivo
 Encontrar la contraseña para el usuario bandit4, ubicada en un archivo oculto dentro de una carpeta llamada inhere.
 
-## Teoría
+## 📚Teoría
 En Linux, los archivos o carpetas que comienzan con un punto (.) son considerados ocultos.
 Estos archivos no aparecen cuando usamos el comando ls de manera normal. Para verlos, es necesario utilizar el flag -a que significa "mostrar todos los archivos".
 
@@ -24,7 +24,7 @@ Estos archivos no aparecen cuando usamos el comando ls de manera normal. Para ve
 
 * La ruta hacia el archivo oculto puede requerir especificar el nombre completo incluyendo el ... inicial (porque el archivo tiene un nombre poco común).
 
-## Solución
+## ✅Solución
 
 1. Conectarse al servidor mediante SSH:
 
@@ -82,7 +82,7 @@ cat inhere/...Hiding-From-You
 **Resultado:**
 
 ```
-2EW7BBsr6aMMoJ2HjW067dm8EgX26xNE
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```
 
 ¡Y esa es la contraseña para el usuario **bandit4!**
