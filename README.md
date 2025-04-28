@@ -38,7 +38,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - [Nivel 3](/Level%203/README.md) - Espacios en el nombre de archivo.
 
-- Nivel 4 - Archivos ocultos.
+- [Nivel 4](/Level%204/README.md) - Archivos ocultos.
 
 - Nivel 5 - Tipos de archivo, especialmente archivos legibles.
 
