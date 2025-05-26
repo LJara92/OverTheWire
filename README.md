@@ -40,7 +40,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - [Nivel 4](/Level%204/README.md) - Archivos ocultos.
 
-- Nivel 5 - Tipos de archivo, especialmente archivos legibles.
+- [Nivel 5](/Level%205/README.md) - Tipos de archivo, especialmente archivos legibles.
 
 - Nivel 6 - Archivos legibles, tamaños de archivo y archivos no ejecutables.
 
