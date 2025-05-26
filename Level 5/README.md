@@ -6,7 +6,7 @@ En este nivel se nos presenta un directorio con varios archivos. El desafío con
 A diferencia de niveles anteriores, no hay una pista evidente: debemos inspeccionar el contenido de los archivos para descubrir cuál es el correcto.
 
 ## 🎯Objetivo
-Encontrar la contraseña para el usuario bandit6, ubicada en uno de los archivos dentro del directorio inhere.
+Encontrar la contraseña para el usuario bandit5, ubicada en uno de los archivos dentro del directorio inhere.
 
 ## 📚Teoría
 Para saber qué tipo de datos contiene un archivo en Linux, usamos el comando file, que analiza el contenido del archivo y no solo su extensión.
@@ -27,10 +27,10 @@ ls -la: Lista todos los archivos, incluidos ocultos y detalles (tamaño, permiso
 1. Conectarse al servidor mediante SSH:
 
 ```
-ssh bandit5@bandit.labs.overthewire.org -p 2220
+ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
-Usuario: ```bandit5```
+Usuario: ```bandit4```
 Contraseña: (la obtenida del nivel anterior)
 
 2. Ir al directorio inhere:
