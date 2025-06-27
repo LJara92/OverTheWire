@@ -1,11 +1,11 @@
 # Nivel 6 ➔ Nivel 7 - Bandit - OverTheWire
 
-## Introduccion
+## 📖Introduccion
 
 En este nivel comenzamos a explorar el sistema de archivos más allá del directorio home, utilizando herramientas más avanzadas para buscar archivos en todo el sistema.
 El objetivo es encontrar un archivo específico según ciertos criterios de usuario, grupo y tamaño exacto.
 
-## Objetivo
+## 🎯Objetivo
 
 Encontrar la contraseña del usuario **bandit7**, ubicada en un archivo que:
 
@@ -15,7 +15,7 @@ Pertenece al grupo **bandit6**
 
 Tiene un tamaño exacto de **33 bytes**
 
-## Teoría
+## 📚Teoría
 
 Para este tipo de búsquedas más complejas, se utiliza el comando **find**, que permite filtrar archivos en base a múltiples criterios, como:
 
@@ -31,7 +31,7 @@ Para este tipo de búsquedas más complejas, se utiliza el comando **find**, que
 
 Una vez localizado el archivo correcto, lo leemos con cat.
 
-## Solución
+## ✅Solución
 
 1. Conectarse al servidor con las credenciales del nivel 6:
 
