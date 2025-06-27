@@ -44,7 +44,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - [Nivel 6](/Level%206/README.md) - Archivos legibles, tamaños de archivo y archivos no ejecutables.
 
-- Nivel 7 - Encontrar un archivo con un usuario y grupo de propiedad específicos.
+- [Nivel 7](/Level%207/README.md) - Encontrar un archivo con un usuario y grupo de propiedad específicos.
 
 - Nivel 8 - Aprender grep y canalización.
 
