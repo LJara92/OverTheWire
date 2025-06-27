@@ -56,8 +56,9 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - Nivel 12 - Cifrado de sustitución Rot13 como comando de Linux con 'tr'.
 
-- Nivel 13 - Volcados hexadecimales, compresión y firmas de archivos. Nivel 14: Inicio de sesión SSH con clave y 
-transferencia de archivos desde un host remoto.
+- Nivel 13 - Volcados hexadecimales, compresión y firmas de archivos.
+
+- Nivel 14: Inicio de sesión SSH con clave y transferencia de archivos desde un host remoto.
 
 - Nivel 15: Netcat y primera comunicación de red.
 
