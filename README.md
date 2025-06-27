@@ -42,7 +42,7 @@ El objetivo de este material no es solamente darte las respuestas, sino también
 
 - [Nivel 5](/Level%205/README.md) - Tipos de archivo, especialmente archivos legibles.
 
-- Nivel 6 - Archivos legibles, tamaños de archivo y archivos no ejecutables.
+- [Nivel 6](/Level%206/README.md) - Archivos legibles, tamaños de archivo y archivos no ejecutables.
 
 - Nivel 7 - Encontrar un archivo con un usuario y grupo de propiedad específicos.
 
