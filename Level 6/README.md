@@ -74,7 +74,6 @@ Salida:
 
 ```
 HWsAnPhtq9AVKe0dmk45nxy2ocvUa6EG
-
 ```
 ![Resuelto](Imagen2.png)
 
@@ -82,6 +81,7 @@ Esa es la contraseña para el usuario bandit6!
 
 ## Mini tabla de comandos
 | Comando | Descripción |
+|----------|----------|
 | ```file <archivo> ``` | Muestra el tipo de contenido del archivo |
 | ```du -b -a ``` | Muestra el tamaño (en bytes) de todos los archivos |
 | ```grep "<texto>"``` | Filtra líneas que coincidan con un patrón |
